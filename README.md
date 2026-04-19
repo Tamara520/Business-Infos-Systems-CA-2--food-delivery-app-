@@ -56,7 +56,12 @@ Legal & Ethical Considerations
  Author
 Tsolmon Jargalsaikhan  
 CCT College Dublin  
+Future Improvements
 
+• Add AI-based recommendation system  
+• Improve delivery route optimization  
+• Integrate real-time chat support  
+• Enhance mobile UI/UX design  
 
  Module
 Business Information Systems (BIS)
