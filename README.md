@@ -62,13 +62,24 @@ Future Improvements
 • Improve delivery route optimization  
 • Integrate real-time chat support  
 • Enhance mobile UI/UX design  
-## Presentation File
+ Presentation File
+Final Submission
 
+This project is fully completed and ready for submission.
+
+All required components have been included:
+- Website (HTML, CSS, JavaScript)
+- Final PowerPoint presentation
+- System analysis and design
+- GitHub version control with multiple commits
+
+The system demonstrates a modern food delivery information system with focus on usability, security, and scalability. 
 The final presentation is included in this repository:
 
 - Tsolmon_Jargalsaikhan_BIS_CA2024520.pptx
+- 
 
-## Conclusion
+Conclusion
 
 This project demonstrates how an information system can improve food delivery services by enhancing efficiency, security, and user experience.
 
