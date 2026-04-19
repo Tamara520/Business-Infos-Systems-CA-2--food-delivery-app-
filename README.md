@@ -62,6 +62,15 @@ Future Improvements
 • Improve delivery route optimization  
 • Integrate real-time chat support  
 • Enhance mobile UI/UX design  
+## Presentation File
+
+The final presentation is included in this repository:
+
+- Tsolmon_Jargalsaikhan_BIS_CA2024520.pptx
+
+## Conclusion
+
+This project demonstrates how an information system can improve food delivery services by enhancing efficiency, security, and user experience.
 
  Module
 Business Information Systems (BIS)
